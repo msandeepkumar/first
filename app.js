@@ -1,5 +1,5 @@
-function log(){
-console.log("Hello World");
+function log(str){
+console.log(str);
 }
 
-log();
+log("Hello World");
